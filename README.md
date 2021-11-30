@@ -12,10 +12,11 @@ https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/tree/main/stage04/noteboo
 
 ## Algoritmos de Alinhamento Automático de Imagens
 Com o uso de OpenCV, skimage e outras bibliotecas, realiza-se o alinhamento automático de imagens de textos que foram escaneados não-horizontalmente <br><br>
-https://github.com/TheRomito/MyProjects/blob/main/notebooks/AlinhamentoAutomaticoImagens.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheRomito/MyProjects/blob/main/notebooks/AlinhamentoAutomaticoImagens.ipynb)
 
 ## Manipulações Básicas de Imagens
 Conjunto de funções de manipulação de imagens, como ajuste de brilho, quantização, plano de bits etc implementadas com o uso das bibliotecas NumPy e MatplotLib <br><br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheRomito/MyProjects/blob/main/notebooks/ManipulacoesBasicasImagens.ipynb)
 https://github.com/TheRomito/MyProjects/blob/main/notebooks/ManipulacoesBasicasImagens.ipynb
 
 ## Sentinela Vacina Covid-19
@@ -24,5 +25,6 @@ https://replit.com/@Andre_LuisLuis/vacinasite#main.py
 
 ## Análise de Subjetividade/Sentimento em Manchetes de Notícias
 Com o uso de webscraping, retira-se manchetes em tempo real dos sites de notícia, e analisa se tais publicações têm alto grau de subjetividade ou de sentimento através de funções da biblioteca de NLP TextBlob. Foi necessário traduzí-las para o inglês para usar destas funções. <br><br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheRomito/MyProjects/blob/main/notebooks/AnalisesNoticias.ipynb)
 https://github.com/TheRomito/MyProjects/blob/main/notebooks/AnalisesNoticias.ipynb
 
