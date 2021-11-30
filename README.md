@@ -3,8 +3,7 @@ Repositório contendo links para alguns dos projetos produzidos individualmente/
 
 ## Predição de taxas de Mortalidade de Cancer para condados Norte Americanos
 Foram utilizados métodos de Tratamento, Limpeza e Normalização de dados para depois usá-los para construir um modelo que irá predizer as taxas de mortalidade em condados Norte Americanos <br><br>
-https://github.com/TheRomito/MyProjects/blob/main/notebooks/PredTaxaDeCancerEUA.ipynb
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheRomito/MyProjects/blob/main/notebooks/PredTaxaDeCancerEUA.ipynb)
 
 ## Análise e Correlação de Dados de aspectos nutricionais com a saúde mental de uma certa população com dados do mundo real
 Usando-se principalmente de correlações entre tabelas .CSV (em SQL), foram feitas diversas análises a partir dos dados socio-economicos, de dieta, número de casos de transtornos mentais, entre outros para tentar achar padrões e relações entre os dados. <br><br>
